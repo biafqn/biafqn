@@ -1,26 +1,33 @@
 ![Contribuições 3D](./profile-3d-contrib/profile-night-view.svg)
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=biafqn&theme=github_dark" alt="Cartão de Detalhes do Perfil">
+ | [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=biafqn&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=biafqn&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |  
+ | ----------- | ----------- |
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=biafqn&theme=github_dark&show_icons=true" alt="Estatísticas do GitHub">
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=biafqn&theme=github_dark&hide_title=true" alt="Linguagens nos Repositórios">
+ 
+  <div align="center" >
+<a href="https://skillicons.dev"   >
+  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,tailwind,sass,nodejs,github,jest,vite,bootstrap,postgres,discord,linkedin,instagram" />
+</a>
+  <br />
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=biafqn&theme=github_dark" alt="Linguagens de Commit">
+  </div>
 
-<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=biafqn&theme=github_dark&utcOffset=-3" alt="Horário Produtivo">
+ 
+##
+   <div align="center" >
+     <img src="https://github-profile-trophy.vercel.app/?username=biafqn&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+  </div>
+  
+ 
 
-<!--
-**biafqn/biafqn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
+ 
+  
+  
+
+  
