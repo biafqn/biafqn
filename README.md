@@ -1,5 +1,15 @@
 ![Contribuições 3D](./profile-3d-contrib/profile-night-view.svg)
 
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=biafqn&theme=github_dark" alt="Cartão de Detalhes do Perfil">
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=biafqn&theme=github_dark&show_icons=true" alt="Estatísticas do GitHub">
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=biafqn&theme=github_dark&hide_title=true" alt="Linguagens nos Repositórios">
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=biafqn&theme=github_dark" alt="Linguagens de Commit">
+
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=biafqn&theme=github_dark&utcOffset=-3" alt="Horário Produtivo">
+
 <!--
 **biafqn/biafqn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
